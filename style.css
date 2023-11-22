@@ -1,0 +1,22 @@
+body {
+  background-color: black !important;
+}
+
+nav {
+  font-size: 1.3rem !important;
+}
+
+button {
+  color: #6c8cd0 !important;
+  border: 1px solid #6c8cd0 !important;
+}
+
+button:hover {
+  color: white !important;
+  background-color: #6c8cd0 !important;
+  border: 1px solid #6c8cd0 !important;
+}
+
+footer {
+  margin-top: 100vh !important;
+}
